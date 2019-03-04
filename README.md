@@ -152,5 +152,3 @@ Rigon, R., Bertoldi, G., & Over, T. M. (2006), [GEOtop: A Distributed Hydrologic
 [GEOtopUsers mailing list]: https://groups.google.com/forum/#!forum/geotopusers
 [GEOtop 2.0: Simulating the combined energy and water balance at and below the land surface accounting for soil freezing, snow cover and terrain effects]: http://www.geosci-model-dev.net/7/2831/2014/gmd-7-2831-2014.html
 [GEOtop: A Distributed Hydrological Model with Coupled Water and Energy Budgets]: https://dl.dropboxusercontent.com/u/4762277/000-me/J24-GEOtop.pdf
-
-trying to modify file...
